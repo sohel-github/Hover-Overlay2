@@ -1,0 +1,15 @@
+
+<div class="container">
+  
+  <div class="row">
+    <div class="col-md-6 col-md-offset-3">
+	  <div class="unit-thumbnail">
+	    <img src="https://cloudschool-test.appspot.com/static/img/Image-1.png" width="100%">
+        <div class="unit-caption">
+          This is a dark caption
+        </div>
+      </div>
+    </div>
+  </div>
+  
+</div><!-- /.container -->
